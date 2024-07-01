@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer>
       {' '}
-      <p>© Arthur Augusto 2023</p>{' '}
+      <p></p>{' '}
     </footer>
   );
 };
