@@ -210,7 +210,7 @@ const Home = () => {
       </div>
       <div className={styles.footerResponsive}>
         {' '}
-        <p>© Arthur Augusto 2023</p>{' '}
+        <p></p>{' '}
       </div>
     </main>
   );
